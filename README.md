@@ -21,7 +21,11 @@
 
 ## Learning Resources 
 [Vue.js](https://v3.vuejs.org/guide/mobile.html#introduction)
+<br>
 [invalid host header](https://stackoverflow.com/questions/45425721/invalid-host-header-when-ngrok-tries-to-connect-to-react-dev-server)
+<br>
 [vue icon problem](https://www.xspdf.com/resolution/50778850.html)
+<br>
 [python unit test](https://queirozf.com/entries/python-unittest-examples-mocking-and-patching)
+<br>
 [cypress for end to end test](https://docs.cypress.io/guides/getting-started/installing-cypress.html#Adding-npm-scripts)
