@@ -1,4 +1,4 @@
-# [Self Introduction Chatbot by Yu Hsuan Chen](https://github.com/iitsmel/bot)
+# [Self Introduction Chatbot](https://github.com/iitsmel/bot)
 
 
 ## Platfrom
